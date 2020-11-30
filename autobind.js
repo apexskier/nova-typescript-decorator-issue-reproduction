@@ -1,4 +1,4 @@
-// from 
+// Credit to https://github.com/andreypopp/autobind-decorator this file
 
 /**
  * Return a descriptor removing the value and returning a getter
